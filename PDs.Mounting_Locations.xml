@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- PDFExportGUI_USER_SCHEMAS: PDs.Mounting_Locations.xml -->
+<Settings format="2">
+ <CAT name="USER">
+  <MOD name="PDFExportGUI">
+   <LEV1 name="SCHEMAS" nodekind="scheme">
+    <LEV2 name="Mounting_Locations">
+     <LEV3 name="Data" nodekind="block">
+      <Setting name="10001+0+20486+0" type="mlstring">
+       <Val>de_DE@Artikeltyp;en_US@Part type;ru_RU@Тип изделия;zh_CN@部件类型;es_ES@Tipo de artículo;fr_FR@Type d&apos;article;nl_NL@Artikeltype;sv_SE@Artikeltyp;da_DK@Artikeltype;pl_PL@Typ artykułu;pt_BR@Tipo de peça;cs_CZ@Typ artiklu;it_IT@Tipo articolo;hu_HU@Cikktípus;pt_PT@Tipo de peça;ko_KR@부품 유형;ja_JP@部品タイプ;tr_TR@Ürün tipi;</Val>
+      </Setting>
+      <Setting name="117+0+22003+0" type="mlstring">
+       <Val>de_DE@Bestellnummer;en_US@Order number;ru_RU@Номер заказа;zh_CN@订货编号;es_ES@Número de pedido;fr_FR@Numéro de commande;nl_NL@Bestelnummer;sv_SE@Beställningsnummer;da_DK@Bestillingsnummer;pl_PL@Numer katalogowy;pt_BR@Número de pedido;cs_CZ@Objednací číslo;it_IT@N° ordine;hu_HU@Megrendelési szám;pt_PT@Número de pedido;ko_KR@주문 번호;ja_JP@オーダー番号;tr_TR@Sipariş numarası;</Val>
+      </Setting>
+      <Setting name="117+0+22004+0" type="mlstring">
+       <Val>de_DE@Bezeichnung 1;en_US@Designation 1;ru_RU@Обозначение 1;zh_CN@名称 1;es_ES@Designación 1;fr_FR@Désignation 1;nl_NL@Omschrijving 1;sv_SE@Benämning 1;da_DK@Betegnelse 1;pl_PL@Oznaczenie 1;pt_BR@Designação 1;cs_CZ@Označení 1;it_IT@Designazione 1;hu_HU@Megnevezés 1;pt_PT@Designação 1;ko_KR@지정 1;ja_JP@名称 1;tr_TR@Tanımlayıcı metin 1;</Val>
+      </Setting>
+      <Setting name="117+0+22005+0" type="mlstring">
+       <Val>de_DE@Bezeichnung 2;en_US@Designation 2;ru_RU@Обозначение 2;zh_CN@名称 2;es_ES@Designación 2;fr_FR@Désignation 2;nl_NL@Omschrijving 2;sv_SE@Benämning 2;da_DK@Betegnelse 2;pl_PL@Oznaczenie 2;pt_BR@Designação 2;cs_CZ@Označení 2;it_IT@Designazione 2;hu_HU@Megnevezés 2;pt_PT@Designação 2;ko_KR@지정 2;ja_JP@名称 2;tr_TR@Tanımlayıcı metin 2;</Val>
+      </Setting>
+      <Setting name="117+0+22006+0" type="mlstring">
+       <Val>de_DE@Bezeichnung 3;en_US@Designation 3;ru_RU@Обозначение 3;zh_CN@名称 3;es_ES@Designación 3;fr_FR@Désignation 3;nl_NL@Omschrijving 3;sv_SE@Benämning 3;da_DK@Betegnelse 3;pl_PL@Oznaczenie 3;pt_BR@Designação 3;cs_CZ@Označení 3;it_IT@Designazione 3;hu_HU@Megnevezés 3;pt_PT@Designação 3;ko_KR@지정 3;ja_JP@名称 3;tr_TR@Tanımlayıcı metin 3;</Val>
+      </Setting>
+      <Setting name="117+0+22009+0" type="mlstring">
+       <Val>de_DE@Beschreibung;en_US@Description;ru_RU@Описание;zh_CN@描述;es_ES@Descripción;fr_FR@Description;nl_NL@Beschrijving;sv_SE@Beskrivning;da_DK@Beskrivelse;pl_PL@Opis;pt_BR@Descrição;cs_CZ@Popis;it_IT@Descrizione;hu_HU@Leírás;pt_PT@Descrição;ko_KR@설명;ja_JP@説明;tr_TR@Açıklama;</Val>
+      </Setting>
+      <Setting name="117+0+22012+0" type="mlstring">
+       <Val>de_DE@Höhe;en_US@Height;ru_RU@Высота;zh_CN@高度;es_ES@Altura;fr_FR@Hauteur;nl_NL@Hoogte;sv_SE@Höjd;da_DK@Højde;pl_PL@Wysokość;pt_BR@Altura;cs_CZ@Výška;it_IT@Altezza;hu_HU@Magasság;pt_PT@Altura;ko_KR@높이;ja_JP@高さ;tr_TR@Yükseklik;</Val>
+      </Setting>
+      <Setting name="117+0+22013+0" type="mlstring">
+       <Val>de_DE@Breite;en_US@Width;ru_RU@Ширина;zh_CN@宽度;es_ES@Ancho;fr_FR@Largeur;nl_NL@Breedte;sv_SE@Bredd;da_DK@Bredde;pl_PL@Szerokość;pt_BR@Largura;cs_CZ@Šířka;it_IT@Larghezza;hu_HU@Szélesség;pt_PT@Largura;ko_KR@너비;ja_JP@幅;tr_TR@Genişlik;</Val>
+      </Setting>
+      <Setting name="117+0+22014+0" type="mlstring">
+       <Val>de_DE@Tiefe;en_US@Depth;ru_RU@Глубина;zh_CN@深度;es_ES@Profundidad;fr_FR@Profondeur;nl_NL@Diepte;sv_SE@Djup;da_DK@Dybde;pl_PL@Głębokość;pt_BR@Profundidade;cs_CZ@Hloubka;it_IT@Profondità;hu_HU@Mélység;pt_PT@Profundidade;ko_KR@깊이;ja_JP@奥行;tr_TR@Derinlik;</Val>
+      </Setting>
+      <Setting name="117+0+22046+0" type="mlstring">
+       <Val>de_DE@Gewicht;en_US@Weight;ru_RU@Вес;zh_CN@重量;es_ES@Peso;fr_FR@Poids;nl_NL@Gewicht;sv_SE@Vikt;da_DK@Vægt;pl_PL@Waga;pt_BR@Peso;cs_CZ@Hmotnost;it_IT@Peso;hu_HU@Tömeg;pt_PT@Peso;ko_KR@중량;ja_JP@重量;tr_TR@Ağırlık;</Val>
+      </Setting>
+      <Setting name="17+1+20025+0" type="mlstring">
+       <Val>de_DE@Graviertext;en_US@Engraving text;es_ES@Texto de grabado;fr_FR@Texte de gravure;nl_NL@Graveertekst;sv_SE@Graveringstext;da_DK@Graveringstekst;ru_RU@Текст гравировки;zh_CN@铭牌文本;pl_PL@Tekst grawerowany;pt_BR@Texto de gravação;cs_CZ@Gravírovaný text;it_IT@Testo di incisione;hu_HU@Gravírozott szöveg;pt_PT@Texto de gravação;ko_KR@도안 문자;ja_JP@刻印テキスト;tr_TR@Gravür metni;</Val>
+      </Setting>
+      <Setting name="17+1+20027+0" type="mlstring">
+       <Val>de_DE@Technische Kenngrößen;en_US@Technical characteristics;ru_RU@Технические параметры;zh_CN@技术参数;es_ES@Parámetros técnicos;fr_FR@Caractéristiques techniques;nl_NL@Technische waarden;sv_SE@Tekniska data;da_DK@Tekniske størrelser;pl_PL@Charakterystyki techniczne;pt_BR@Parâmetros técnicos;cs_CZ@Technické veličiny;it_IT@Parametri tecnici;hu_HU@Műszaki jellemzők;pt_PT@Características técnicas;ko_KR@기술적 특성;ja_JP@技術特性;tr_TR@Teknik karakteristikler;</Val>
+      </Setting>
+      <Setting name="17+1+20031+0" type="mlstring">
+       <Val>de_DE@Funktionstext (automatisch);en_US@Function text (automatic);es_ES@Texto de función (automáticamente);fr_FR@Texte de fonction (automatique);nl_NL@Functietekst (automatisch);sv_SE@Funktionstext (automatisk);da_DK@Funktionstekst (automatisk);ru_RU@Функциональный текст (автоматически);zh_CN@功能文本(自动);pl_PL@Tekst funkcji (automatyczny);pt_BR@Texto de função (automático);cs_CZ@Funkční text (automatický);it_IT@Testo funzionale (automatico);hu_HU@Funkciószöveg (automatikus);pt_PT@Texto de função (automático);ko_KR@기능 문자(자동);ja_JP@機能テキスト (自動);tr_TR@Fonksiyon metni (otomatik);</Val>
+      </Setting>
+      <Setting name="17+1+20040+0" type="mlstring">
+       <Val>de_DE@Kabeltyp;en_US@Cable type;ru_RU@Тип кабеля;zh_CN@电缆型号;es_ES@Tipo de cable;fr_FR@Type de câble;nl_NL@Kabeltype;sv_SE@Kabeltyp;da_DK@Kabeltype;pl_PL@Typ kabla;pt_BR@Tipo de cabo;cs_CZ@Typ kabelu;it_IT@Tipo cavo;hu_HU@Kábeltípus;pt_PT@Tipo de cabo;ko_KR@케이블 유형;ja_JP@ケーブル タイプ;tr_TR@Kablo tipi;</Val>
+      </Setting>
+      <Setting name="17+1+20041+0" type="mlstring">
+       <Val>de_DE@Kabellänge mit Einheit;en_US@Cable length with unit;es_ES@Longitud de cable con unidad;fr_FR@Longueur du câble avec unité;nl_NL@Kabellengte met eenheid;sv_SE@Kabellängd med enhet;da_DK@Kabellængde med enhed;ru_RU@Длина кабеля с единицей измерения;zh_CN@带单位的电缆长度;pl_PL@Długość kabla z jednostką;pt_BR@Comprimento do cabo com unidade;cs_CZ@Délka kabelu včetně jednotky;it_IT@Lunghezza cavo con unità;hu_HU@Kábelhossz egységgel;pt_PT@Comprimento do cabo com unidade;ko_KR@케이블 길이(단위 포함);ja_JP@単位付きのケーブル長さ;tr_TR@Birimli kablo uzunluğu;</Val>
+      </Setting>
+      <Setting name="17+1+20042+0" type="mlstring">
+       <Val>de_DE@Kabel: Aderzahl;en_US@Cables: No. of conductors;es_ES@Cable: Número de conductores;fr_FR@Câble : nombre de conducteurs;nl_NL@Kabel: Aantal aders;sv_SE@Kabel: Antal ledare;da_DK@Kabel: Lederantal;ru_RU@Кабель: число жил;zh_CN@电缆:芯线数;pl_PL@Kabel: Liczba żył;pt_BR@Cabo: nº de condutores;cs_CZ@Kabely: Počet žil;it_IT@Cavo: numero conduttori;hu_HU@Kábel: érszám;pt_PT@Cabos: Nº de condutores;ko_KR@케이블: 심선 수;ja_JP@ケーブル: 導体数;tr_TR@Kablo: İletken sayısı;</Val>
+      </Setting>
+      <Setting name="17+1+20043+0" type="mlstring">
+       <Val>de_DE@Kabel: Aderquerschnitt / -durchmesser;en_US@Cables: Conductor cross-section / diameter;es_ES@Cable: Sección / diámetro del conductor;fr_FR@Câble : section / diamètre du conducteur;nl_NL@Kabel: Aderdoorsnede / -diameter;sv_SE@Kabel: Ledararea / -diameter;da_DK@Kabel: Ledertværsnit / -diameter;ru_RU@Кабель: поперечное сечение/диаметр жил;zh_CN@电缆:芯线截面积/直径;pl_PL@Kabel: Przekrój / średnica żyły;pt_BR@Cabo: seção transversal / diâmetro de condutores;cs_CZ@Kabely: Průřez / průměr žíly;it_IT@Cavo: sezione / diametro conduttori;hu_HU@Kábel: érkeresztmetszet / -átmérő;pt_PT@Cabos: Secção / diâmetro dos condutores;ko_KR@케이블: 심선 단면적 / 지름;ja_JP@ケーブル: 導体の断面積 / 直径;tr_TR@Kablo: İletken kesiti / çapı;</Val>
+      </Setting>
+      <Setting name="17+1+20466+0" type="mlstring">
+       <Val>de_DE@Gewerk;en_US@Trade;ru_RU@Раздел;zh_CN@行业;es_ES@Técnica;fr_FR@Branche;nl_NL@Bereik;sv_SE@Område;da_DK@Anvendelsesområde;pl_PL@Branża;pt_BR@Classe;cs_CZ@Obor;it_IT@Settore;hu_HU@Szakterület;pt_PT@Classe;ko_KR@트레이드;ja_JP@分野;tr_TR@Branş;</Val>
+      </Setting>
+      <Setting name="20076+0+22908+0" type="mlstring">
+       <Val>de_DE@Hersteller;en_US@Manufacturer;ru_RU@Производитель;zh_CN@制造商;es_ES@Fabricante;fr_FR@Fabricant;nl_NL@Fabrikant;sv_SE@Tillverkare;da_DK@Fabrikant;pl_PL@Producent;pt_BR@Fabricante;cs_CZ@Výrobce;it_IT@Produttore;hu_HU@Gyártó;pt_PT@Fabricante;ko_KR@제조업체;ja_JP@メーカー;tr_TR@Üretici;</Val>
+      </Setting>
+      <Setting name="20077+0+22908+0" type="mlstring">
+       <Val>de_DE@Lieferant;en_US@Supplier;ru_RU@Поставщик;zh_CN@供应商;es_ES@Proveedor;fr_FR@Fournisseur;nl_NL@Leverancier;sv_SE@Leverantör;da_DK@Leverandør;pl_PL@Dostawca;pt_BR@Fornecedor;cs_CZ@Dodavatel;it_IT@Fornitore;hu_HU@Szállító;pt_PT@Fornecedor;ko_KR@공급업체;ja_JP@サプライヤー;tr_TR@Tedarikçi;</Val>
+      </Setting>
+      <Setting name="ApplyDeviceFilter" type="bool">
+       <Val>0</Val>
+      </Setting>
+      <Setting name="ApplyPageFilter" type="bool">
+       <Val>1</Val>
+      </Setting>
+      <Setting name="CabinetModel" type="bool">
+       <Val>1</Val>
+      </Setting>
+      <Setting name="CopyExternalDocuments" type="bool">
+       <Val/>
+      </Setting>
+      <Setting name="CreateFileName" type="int">
+       <Val/>
+      </Setting>
+      <Setting name="CreateSubdirectories" type="int">
+       <Val/>
+      </Setting>
+      <Setting name="EMIModel" type="bool">
+       <Val>1</Val>
+      </Setting>
+      <Setting name="FastWebView" type="bool">
+       <Val>0</Val>
+      </Setting>
+      <Setting name="FilenameFormat" type="string">
+       <Val/>
+      </Setting>
+      <Setting name="GenerateDevicePages" type="bool">
+       <Val/>
+      </Setting>
+      <Setting name="LinkToEvaluationDescription" type="bool">
+       <Val>1</Val>
+      </Setting>
+      <Setting name="LinkToFuncDescription" type="bool">
+       <Val>1</Val>
+      </Setting>
+      <Setting name="Nom3DLinkName" type="mlstring">
+       <Val>de_DE@Link zum 3D-Modell;en_US@Link to 3D model;es_ES@Vínculo al modelo 3D;fr_FR@Lien vers le modèle 3D;nl_NL@Link naar 3D model;sv_SE@Länk till 3D modell;da_DK@Link til 3D-model;ru_RU@Ссылка на 3D модель;zh_CN@指向 3D 模型的链接;pl_PL@Link do modelu 3D;pt_BR@Link para modelo 3D;cs_CZ@Odkaz na 3D model;it_IT@Link al modello 3D;hu_HU@Hivatkozás 3D modellre;pt_PT@Ligação para modelo 3D;ko_KR@3D 모델에 대한 링크;ja_JP@3D モデルへのリンク;tr_TR@3D modeline bağlantı;</Val>
+      </Setting>
+      <Setting name="Nom3DModel" type="mlstring">
+       <Val>de_DE@3D Modell;en_US@3D model;es_ES@Modelo 3D;fr_FR@Modèle 3D;nl_NL@3D model;sv_SE@3D modell;da_DK@3D model;ru_RU@Модель 3D;zh_CN@3D 模型;pl_PL@Model 3D;pt_BR@Modelo 3D;cs_CZ@3D model;it_IT@Modello 3D;hu_HU@3D modell;pt_PT@3D modelo;ko_KR@3D 모델;ja_JP@3D モデル;tr_TR@3D model;</Val>
+      </Setting>
+      <Setting name="Nom3DPanelLayout" type="mlstring">
+       <Val>de_DE@3D-Montageaufbau;en_US@3D mounting layout;es_ES@Construcción 3D;fr_FR@Structure de montage 3D;nl_NL@3D-montageopbouw;sv_SE@3D-monteringslayout;da_DK@3D-montage-layout;ru_RU@Трехмерный чертеж монтажных поверхностей;zh_CN@3D 安装布局;pl_PL@Zabudowa 3D;pt_BR@Layout de montagem 3D;cs_CZ@3D montážní celek;it_IT@Layout 3D;hu_HU@3D szerelési tér;pt_PT@Disposição da montagem 3D;ko_KR@3D 마운팅 레이아웃;ja_JP@3D 実装レイアウト;tr_TR@3D montaj yapısı;</Val>
+      </Setting>
+      <Setting name="NomCableAssignmentDiagram" type="mlstring">
+       <Val>de_DE@Kabeldarstellungsplan;en_US@Cable assignment diagram;es_ES@Plano de representación de cables;fr_FR@Plan de représentation des câbles;nl_NL@Kabelweergaveschema;sv_SE@Kabelritning;da_DK@Standardkabel-tilslutningsplan;ru_RU@Схема кабельных соединений;zh_CN@电缆布线图;pl_PL@Plan rozszycia kabla;pt_BR@Diagrama de montagem dos cabos;cs_CZ@Schéma zapojení kabelů;it_IT@Schema rappresentazione cavi;hu_HU@Kábelábrázolási terv;pt_PT@Diagrama de montagem dos cabos;ko_KR@케이블 할당 다이어그램;ja_JP@ケーブル割り当てダイアグラム;tr_TR@Kablo atama şeması;</Val>
+      </Setting>
+      <Setting name="NomCableConnectionDiagram" type="mlstring">
+       <Val>de_DE@Kabelanschlussplan;en_US@Cable connection diagram;es_ES@Plano de conexiones de cables;fr_FR@Plan de raccordement des câbles;nl_NL@Kabelaansluitschema;sv_SE@Kabelanslutningsschema;da_DK@Kabeltilslutningsplan;ru_RU@Схема подключения кабеля;zh_CN@电缆连接图;pl_PL@Plan podłączeń kabla;pt_BR@Diagrama de conexão de cabos;cs_CZ@Plán napojení kabelu;it_IT@Schema allacciamento cavi;hu_HU@Kábel bekötési terv;pt_PT@Diagrama de ligação dos cabos;ko_KR@케이블 접속 다이어그램;ja_JP@ケーブル接続ダイアグラム;tr_TR@Kablo bağlantı şeması;</Val>
+      </Setting>
+      <Setting name="NomCableDiagram" type="mlstring">
+       <Val>de_DE@Kabelplan;en_US@Cable diagram;es_ES@Plano de cables;fr_FR@Plan de câblage;nl_NL@Kabelaansluitlijst;sv_SE@Kabelförbindningstabell;da_DK@Kabelplan;ru_RU@Спецификация кабеля;zh_CN@电缆图表;pl_PL@Plan kabli;pt_BR@Diagrama de interconexão;cs_CZ@Plán kabelů;it_IT@Schema cablaggio;hu_HU@Kábelterv;pt_PT@Diagrama dos cabos;ko_KR@케이블 다이어그램;ja_JP@ケーブル ダイアグラム;tr_TR@Kablo şeması;</Val>
+      </Setting>
+      <Setting name="NomCableHarness" type="mlstring">
+       <Val>de_DE@Kabelbaum;en_US@Wire harness;es_ES@Árbol de cables;fr_FR@Faisceau de câblage;nl_NL@Kabelboom;sv_SE@Kabelknippe;da_DK@Kabelbundt;ru_RU@Проводной монтаж;zh_CN@电缆束;pl_PL@Kompletny kabel;pt_BR@Chicote;cs_CZ@Kabelový svazek;it_IT@Cavo preassemblato;hu_HU@Szerelt kábel;pt_PT@Cablagem harness;ko_KR@와이어 하네스;ja_JP@ワイヤ ハーネス;tr_TR@Kablo donatım;</Val>
+      </Setting>
+      <Setting name="NomCableOverview" type="mlstring">
+       <Val>de_DE@Kabelübersicht;en_US@Cable overview;es_ES@Resumen de cables;fr_FR@Aperçu des câbles;nl_NL@Kabeloverzicht;sv_SE@Kabelöversikt;da_DK@Kabeloversigt;ru_RU@Перечень кабелей;zh_CN@电缆总览;pl_PL@Przegląd kabli;pt_BR@Lista de cabos;cs_CZ@Seznam kabelů;it_IT@Sommario dei cavi;hu_HU@Kábellista;pt_PT@Listagem de cabos;ko_KR@케이블 개요;ja_JP@ケーブル概要;tr_TR@Kablolara genel bakış;</Val>
+      </Setting>
+      <Setting name="NomComponentTree" type="mlstring">
+       <Val>de_DE@Betriebsmittelbaum;en_US@Device tree;es_ES@Árbol de medios de explotación;fr_FR@Arborescence des composants;nl_NL@Onderdelenboom;sv_SE@Postträd;da_DK@Komponenttræ;ru_RU@Дерево устройств;zh_CN@设备树;pl_PL@Drzewo zasobów;pt_BR@Árvore de dispositivos;cs_CZ@Strom přístrojů;it_IT@Albero elementi funzionali;hu_HU@Készülékfa;pt_PT@Árvore de dispositivo;ko_KR@장치 트리;ja_JP@デバイス ツリー;tr_TR@Cihaz ağacı;</Val>
+      </Setting>
+      <Setting name="NomConnectionList" type="mlstring">
+       <Val>de_DE@Verbindungsliste;en_US@Connection list;es_ES@Lista de conexiones;fr_FR@Liste de connexion;nl_NL@Verbindingslijst;sv_SE@Inre förbindningstabell;da_DK@Forbindelsesliste;ru_RU@Таблица соединений;zh_CN@连接列表;pl_PL@Lista połączeń;pt_BR@Lista de conexão;cs_CZ@Seznam spojů;it_IT@Lista dei collegamenti;hu_HU@Csatlakozólista;pt_PT@Lista das ligações;ko_KR@접속 목록;ja_JP@接続リスト;tr_TR@Bağlantı listesi;</Val>
+      </Setting>
+      <Setting name="NomDeviceConnectionDiagram" type="mlstring">
+       <Val>de_DE@Geräteanschlussplan;en_US@Device connection diagram;es_ES@Plano de conexiones de dispositivos;fr_FR@Plan de raccordement d&apos;appareil;nl_NL@Apparaataansluitschema;sv_SE@Apparatanslutningsschema;da_DK@Komponenttilslutningsplan;ru_RU@Схема подключения устройства;zh_CN@设备连接图;pl_PL@Plan podłączeń urządzeń;pt_BR@Diagrama de conexão dos dispositivos;cs_CZ@Plán napojení přístroje;it_IT@Schema allacciamento apparecchiature;hu_HU@Készülék bekötési terv;pt_PT@Diagrama de ligação do dispositivo;ko_KR@장치 접속 다이어그램;ja_JP@デバイス接続ダイアグラム;tr_TR@Cihaz bağlantı noktası şeması;</Val>
+      </Setting>
+      <Setting name="NomDeviceTagList" type="mlstring">
+       <Val>de_DE@Betriebsmittelliste;en_US@Device tag list;es_ES@Lista de medios de explotación;fr_FR@Liste des composants;nl_NL@Onderdelenlijst;sv_SE@Postbeteckningslista;da_DK@Komponentbetegnelsesliste;ru_RU@Список обозначений устройств;zh_CN@设备列表;pl_PL@Lista zasobów;pt_BR@Lista de TAG&apos;s de dispositivos;cs_CZ@Seznam přístrojů;it_IT@Lista degli elementi funzionali;hu_HU@Készüléklista;pt_PT@Lista de DTs dos dispositivos;ko_KR@장치 태그 목록;ja_JP@デバイス タグ リスト;tr_TR@Cihaz etiketi listesi;</Val>
+      </Setting>
+      <Setting name="NomEnclosureLegend" type="mlstring">
+       <Val>??_??@Enclosure legend;</Val>
+      </Setting>
+      <Setting name="NomEvaluation" type="mlstring">
+       <Val>de_DE@Auswertungen;en_US@Reports;es_ES@Evaluaciones;fr_FR@Évaluations;nl_NL@Verwerkingen;sv_SE@Rapporter;da_DK@Rapporter;ru_RU@Отчеты;zh_CN@报表;pl_PL@Zestawienia;pt_BR@Relatórios;cs_CZ@Vyhodnocení;it_IT@Valutazioni;hu_HU@Kiértékelések;pt_PT@Relatórios;ko_KR@보고서;ja_JP@レポート;tr_TR@Raporlar;</Val>
+      </Setting>
+      <Setting name="NomExternalDocument" type="mlstring">
+       <Val>de_DE@Fremddokument;en_US@External document;es_ES@Documento ajeno;fr_FR@Document externe;nl_NL@Extern document;sv_SE@Externt dokument;da_DK@Eksternt dokument;ru_RU@Внешний документ;zh_CN@外部文档;pl_PL@Dokument obcy;pt_BR@Documento externo;cs_CZ@Externí dokument;it_IT@Documento esterno;hu_HU@Külső dokumentum;pt_PT@Documento externo;ko_KR@외부 문서;ja_JP@外部ドキュメント;tr_TR@Harici doküman;</Val>
+      </Setting>
+      <Setting name="NomFormsDocumentation" type="mlstring">
+       <Val>de_DE@Formulardokumentation;en_US@Forms documentation;es_ES@Documentación de formularios;fr_FR@Documentation de formulaires;nl_NL@Formulierdocumentatie;sv_SE@Formulärdokumentation;da_DK@Formulardokumentation;ru_RU@Перечень форм;zh_CN@表格文档;pl_PL@Dokumentacja formularza;pt_BR@Documentação do formulário;cs_CZ@Dokumentace formulářů;it_IT@Documentazione modulistica;hu_HU@Űrlap-dokumentáció;pt_PT@Documentação dos formulários;ko_KR@양식 문서;ja_JP@フォーム ドキュメンテーション;tr_TR@Form dokümantasyonu;</Val>
+      </Setting>
+      <Setting name="NomFunctional" type="mlstring">
+       <Val>de_DE@Funktional;en_US@Functional;es_ES@Funcional;fr_FR@Fonctionnel;nl_NL@Functioneel;sv_SE@Funktionell;da_DK@Funktionel;ru_RU@Функциональный;zh_CN@功能;pl_PL@Funkcjonalny;pt_BR@Funcional;cs_CZ@Funkční;it_IT@Funzionale;hu_HU@Funkcionális;pt_PT@Funcional;ko_KR@기능;ja_JP@機能;tr_TR@Fonksiyonel;</Val>
+      </Setting>
+      <Setting name="NomGraphic" type="mlstring">
+       <Val>de_DE@Grafik;en_US@Graphic;es_ES@Gráfico;fr_FR@Graphique;nl_NL@Grafisch;sv_SE@Grafik;da_DK@Grafik;ru_RU@Графика;zh_CN@图形;pl_PL@Grafika;pt_BR@Gráfico;cs_CZ@Grafika;it_IT@Grafica;hu_HU@Grafika;pt_PT@Gráfico;ko_KR@그래픽;ja_JP@グラフィックス;tr_TR@Grafik;</Val>
+      </Setting>
+      <Setting name="NomInstallations" type="mlstring">
+       <Val>de_DE@Bauräume;en_US@Layout spaces;es_ES@Espacios;fr_FR@Espaces layout;nl_NL@Layoutruimtes;sv_SE@Layout-utrymmen;da_DK@Placeringsrum;ru_RU@Пространства листа;zh_CN@布局空间;pl_PL@Obszary zabudowy;pt_BR@Espaços de layout;cs_CZ@Návrhové prostory;it_IT@Ambienti 3D;hu_HU@Layout terek;pt_PT@Áreas de colocação;ko_KR@배치 공간;ja_JP@レイアウト スペース;tr_TR@Montaj alanları;</Val>
+      </Setting>
+      <Setting name="NomManufacturerList" type="mlstring">
+       <Val>de_DE@Hersteller- / Lieferantenliste;en_US@Manufacturer / supplier list;es_ES@Lista de fabricantes/proveedores;fr_FR@Liste des fabricants / fournisseurs;nl_NL@Fabrikanten-/leverancierslijst;sv_SE@Tillverkar- / leverantörslista;da_DK@Fabrikant-/leverandørliste;ru_RU@Список производителей/поставщиков;zh_CN@制造商/供应商列表;pl_PL@Lista producentów / dostawców;pt_BR@Lista de fabricantes / fornecedores;cs_CZ@Seznam výrobců / dodavatelů;it_IT@Elenco produttori / fornitori;hu_HU@Gyártó- / szállítólista;pt_PT@Lista de fabricantes/fornecedores;ko_KR@제조업체/공급업체 목록;ja_JP@メーカー / サプライヤー リスト;tr_TR@Üretici / tedarikçi listesi;</Val>
+      </Setting>
+      <Setting name="NomMultiline" type="mlstring">
+       <Val>de_DE@Allpolig;en_US@Multi-line;es_ES@Multipolar;fr_FR@Multipolaire;nl_NL@Meerlijnig;sv_SE@Flerpolig;da_DK@Flerpolet;ru_RU@Многополюсный;zh_CN@多线;pl_PL@Wielokreskowy;pt_BR@Multifilar;cs_CZ@Vícepólové;it_IT@Multipolare;hu_HU@Többpólusú;pt_PT@Multifilar;ko_KR@멀티 라인;ja_JP@マルチライン;tr_TR@Üç hat;</Val>
+      </Setting>
+      <Setting name="NomOptionOverview" type="mlstring">
+       <Val>de_DE@Projektoptionenübersicht;en_US@Project options overview;es_ES@Resumen de opciones de proyecto;fr_FR@Aperçu des options du projet;nl_NL@Projectoptieoverzicht;sv_SE@Projektoptionsöversikt;da_DK@Oversigt over projektoptioner;ru_RU@Обзор опций;zh_CN@项目选项总览;pl_PL@Przegląd opcji;pt_BR@Visão geral de opções de projeto;cs_CZ@Přehled variant projektu;it_IT@Sommario opzioni;hu_HU@Projektopciók áttekintése;pt_PT@Listagem de opções do projecto;ko_KR@프로젝트 옵션 개요;ja_JP@プロジェクト オプション概要;tr_TR@Proje seçeneklerine genel bakış;</Val>
+      </Setting>
+      <Setting name="NomOverview" type="mlstring">
+       <Val>de_DE@Übersicht;en_US@Overview;es_ES@Resumen;fr_FR@Aperçu;nl_NL@Overzicht;sv_SE@Översikt;da_DK@Oversigt;ru_RU@Обзор;zh_CN@总览;pl_PL@Przegląd;pt_BR@Visão geral;cs_CZ@Přehled;it_IT@Sommario;hu_HU@Áttekintés;pt_PT@Listagem;ko_KR@개요;ja_JP@概要;tr_TR@Genel bakış;</Val>
+      </Setting>
+      <Setting name="NomPIDiagram" type="mlstring">
+       <Val>de_DE@RI-Fließbild;en_US@P&amp;I diagram;es_ES@Diagrama PI;fr_FR@Diagramme P&amp;I;nl_NL@P&amp;I-schema;sv_SE@P&amp;I diagram;da_DK@P&amp;I diagram;ru_RU@Функциональная схема автоматизации;zh_CN@管道及仪表流程图;pl_PL@Diagram P&amp;I;pt_BR@Diagrama P&amp;I;cs_CZ@P&amp;I diagram;it_IT@Schema P&amp;I;hu_HU@P&amp;I-ábra;pt_PT@Diagrama P&amp;I;ko_KR@P&amp;I 다이어그램;ja_JP@P&amp;I ダイアグラム;tr_TR@PI diyagramı;</Val>
+      </Setting>
+      <Setting name="NomPLCCardOverview" type="mlstring">
+       <Val>de_DE@SPS-Kartenübersicht;en_US@PLC card overview;es_ES@Resumen de tarjetas de PLC;fr_FR@Aperçu des cartes de l&apos;API;nl_NL@PLC-kaartenoverzicht;sv_SE@PLC-kortöversikt;da_DK@PLC-kortoversigt;ru_RU@Обзор карт ПЛК;zh_CN@PLC 卡总览;pl_PL@Przegląd karty PLC;pt_BR@Visão geral do cartão de CLP;cs_CZ@PLC přehled karet;it_IT@Sommario schede PLC;hu_HU@PLC-kártyaáttekintés;pt_PT@Listagem das cartas PLC;ko_KR@PLC 카드 개요;ja_JP@PLC カード概要;tr_TR@PLC kartlarına genel bakış;</Val>
+      </Setting>
+      <Setting name="NomPLCDiagram" type="mlstring">
+       <Val>de_DE@SPS-Diagramm;en_US@PLC diagram;es_ES@Diagrama de PLC;fr_FR@Diagramme API;nl_NL@PLC-diagram;sv_SE@PLC-diagram;da_DK@PLC-diagram;ru_RU@Схема ПЛК;zh_CN@PLC 图表;pl_PL@Zestawienie zacisków PLC;pt_BR@Diagrama CLP;cs_CZ@PLC diagram;it_IT@Diagramma PLC;hu_HU@PLC-diagram;pt_PT@Diagrama PLC;ko_KR@PLC 다이어그램;ja_JP@PLC ダイアグラム;tr_TR@PLC diyagramı;</Val>
+      </Setting>
+      <Setting name="NomPageList" type="mlstring">
+       <Val>de_DE@Seitenliste;en_US@Page list;es_ES@Lista de páginas;fr_FR@Liste des pages;nl_NL@Paginalijst;sv_SE@Bladöversikt;da_DK@Sideliste;ru_RU@Список страниц;zh_CN@页列表;pl_PL@Lista stron;pt_BR@Lista de páginas;cs_CZ@Seznam stránek;it_IT@Elenco delle pagine;hu_HU@Tervlaplista;pt_PT@Lista de páginas;ko_KR@페이지 목록;ja_JP@ページ リスト;tr_TR@Sayfa listesi;</Val>
+      </Setting>
+      <Setting name="NomPageTree" type="mlstring">
+       <Val>de_DE@Seitenbaum;en_US@Page tree;es_ES@Árbol de páginas;fr_FR@Arborescence de page;nl_NL@Paginaboom;sv_SE@Trädvy;da_DK@Sidetræ;ru_RU@Дерево страниц;zh_CN@页树;pl_PL@Drzewo stron;pt_BR@Árvore de páginas;cs_CZ@Strom stránek;it_IT@Albero pagine;hu_HU@Tervlap fastruktúra;pt_PT@Árvore de páginas;ko_KR@페이지 트리;ja_JP@ページ ツリー;tr_TR@Sayfa ağaç yapısı;</Val>
+      </Setting>
+      <Setting name="NomPairXreference" type="mlstring">
+       <Val>de_DE@Paarquerverweis;en_US@Pair cross-reference;es_ES@Referencia cruzada par;fr_FR@Références croisées par paires;nl_NL@Paarkruisverwijzing;sv_SE@Parkorsreferens;da_DK@Parkrydsreference;ru_RU@Парная перекрестная ссылка;zh_CN@成对关联参考;pl_PL@Para odsyłaczy;pt_BR@Referência cruzada de pares;cs_CZ@Párový křížový odkaz;it_IT@Riferimento incrociato a coppie;hu_HU@Páros kereszthivatkozás;pt_PT@Referência-cruzada par;ko_KR@쌍 상호 참조;ja_JP@ペア クロスリファレンス;tr_TR@Çift çapraz referans;</Val>
+      </Setting>
+      <Setting name="NomPanelLayout" type="mlstring">
+       <Val>de_DE@Schaltschrankaufbau;en_US@Panel layout;es_ES@Construcción de armarios;fr_FR@Structure de l&apos;armoire de distribution;nl_NL@Schakelkastopbouw;sv_SE@Skåpslayout;da_DK@Tavlelayout;ru_RU@Компоновка электрошкафа;zh_CN@安装板布局;pl_PL@Układ szafy sterowniczej;pt_BR@Layout do painel;cs_CZ@Uspořádání skříně;it_IT@Layout armadio elettrico;hu_HU@Kapcsolószekrény-elrendezés;pt_PT@Disposição do painel;ko_KR@패널 레이아웃;ja_JP@パネル レイアウト;tr_TR@Pano yerleşimi;</Val>
+      </Setting>
+      <Setting name="NomPanelLayoutCaption" type="mlstring">
+       <Val>de_DE@Schaltschranklegende;en_US@Enclosure legend;es_ES@Leyenda de armarios;fr_FR@Légende d&apos;implantation d&apos;armoire;nl_NL@Schakelkastlegenda;sv_SE@Positionslista layout;da_DK@Tavleoversigt;ru_RU@Легенда электрошкафа;zh_CN@箱柜设备清单;pl_PL@Legenda szafy sterowniczej;pt_BR@Legenda do painel;cs_CZ@Legenda skříně;it_IT@Legenda armadio elettrico;hu_HU@Kapcsolószekrény-jelmagyarázat;pt_PT@Legenda do quadro;ko_KR@인클로져 범례;ja_JP@エンクロージャ凡例;tr_TR@Pano açıklamaları;</Val>
+      </Setting>
+      <Setting name="NomPart" type="mlstring">
+       <Val>de_DE@Artikel;en_US@Parts;es_ES@Artículos;fr_FR@Articles;nl_NL@Artikelen;sv_SE@Artikel;da_DK@Artikel;ru_RU@Изделия;zh_CN@部件;pl_PL@Artykuły;pt_BR@Peças;cs_CZ@Artikly;it_IT@Articoli;hu_HU@Cikk;pt_PT@Peças;ko_KR@부품;ja_JP@部品;tr_TR@Ürün;</Val>
+      </Setting>
+      <Setting name="NomPartProperties" type="mlstring">
+       <Val>de_DE@Artikeleigenschaften;en_US@Part properties;es_ES@Propiedades de artículos;fr_FR@Propriétés d&apos;articles;nl_NL@Artikeleigenschappen;sv_SE@Artikelegenskaper;da_DK@Artikelegenskaber;ru_RU@Свойства изделия;zh_CN@部件属性;pl_PL@Właściwości artykułu;pt_BR@Propriedades de peças;cs_CZ@Vlastnosti artiklů;it_IT@Proprietà articolo;hu_HU@Cikktulajdonságok;pt_PT@Propriedades de peças;ko_KR@부품 속성;ja_JP@部品プロパティ;tr_TR@Ürün özellikleri;</Val>
+      </Setting>
+      <Setting name="NomPartsList" type="mlstring">
+       <Val>de_DE@Artikelstückliste;en_US@Parts list;es_ES@Lista de artículos;fr_FR@Liste d&apos;articles;nl_NL@Artikellijst;sv_SE@Apparatlista;da_DK@Artikelstykliste;ru_RU@Спецификация изделий;zh_CN@部件列表;pl_PL@Lista artykułów;pt_BR@Lista de peças;cs_CZ@Kusovník artiklů;it_IT@Distinta articoli;hu_HU@Alkatrészjegyzék;pt_PT@Lista de peças;ko_KR@부품 목록;ja_JP@部品リスト;tr_TR@Ürün listesi;</Val>
+      </Setting>
+      <Setting name="NomPinConnectionDiagram" type="mlstring">
+       <Val>de_DE@Steckeranschlussplan;en_US@Pin-connection diagram;es_ES@Plano de conexión de conectores;fr_FR@Plan de raccordement des connecteurs;nl_NL@Stekeraansluitschema;sv_SE@Kontaktdonsschema;da_DK@Stiktilslutningsplan;ru_RU@Схема подключения штекера;zh_CN@插头连接图;pl_PL@Plan podłączeń wtyczki;pt_BR@Diagrama de conexão do conector;cs_CZ@Plán napojení konektoru;it_IT@Schema allacciamento connettori;hu_HU@Dugós csatlakozó bekötési terv;pt_PT@Diagrama de ligação dos pinos;ko_KR@핀 접속 다이어그램;ja_JP@ピン接続ダイアグラム;tr_TR@Pin bağlantı şeması;</Val>
+      </Setting>
+      <Setting name="NomPlaceholderObjOverview" type="mlstring">
+       <Val>de_DE@Platzhalterobjektübersicht;en_US@Placeholder object overview;es_ES@Resumen de objetos contenedor;fr_FR@Aperçu de l&apos;objet de code de réservation;nl_NL@Tijdelijke aanduiding-objectenoverzicht;sv_SE@Platshållarobjektöversikt;da_DK@Pladsholderobjektoversigt;ru_RU@Обзор объектов-заполнителей;zh_CN@占位符对象总览;pl_PL@Przegląd obiektów znaków-wypełniaczy;pt_BR@Visão geral do objeto placeholder;cs_CZ@Přehled zástupných objektů;it_IT@Sommario oggetti segnaposto;hu_HU@Hivatkozásobjektumok áttekintése;pt_PT@Listagem do objecto posicionador;ko_KR@위치 지정 객체 개요;ja_JP@プレースホルダー オブジェクト概要;tr_TR@Yer tutucu nesnelere genel bakış;</Val>
+      </Setting>
+      <Setting name="NomPlotFrameDocumentation" type="mlstring">
+       <Val>de_DE@Normblattdokumentation;en_US@Plot frame documentation;es_ES@Documentación de cajetines;fr_FR@Documentation de cartouche;nl_NL@Plotkaderdocumentatie;sv_SE@Ritningsblankettdokumentation;da_DK@Plotrammedokumentation;ru_RU@Перечень рамок;zh_CN@图框文档;pl_PL@Dokumentacja arkusza normowego;pt_BR@Documentação da moldura;cs_CZ@Dokumentace rámečků;it_IT@Documentazione fogli normali;hu_HU@Rajzlap-dokumentáció;pt_PT@Documentação da folha padrão;ko_KR@출력 양식 문서;ja_JP@プロット フレーム ドキュメンテーション;tr_TR@Çizim alanı dokümantasyonu;</Val>
+      </Setting>
+      <Setting name="NomPlugDiagram" type="mlstring">
+       <Val>de_DE@Steckerplan;en_US@Plug diagram;es_ES@Plano de conectores;fr_FR@Plan des connecteurs;nl_NL@Stekeraansluitlijst;sv_SE@Kontaktdonslista;da_DK@Stikplan;ru_RU@Спецификация штекера;zh_CN@插头图表;pl_PL@Plan wtyczek;pt_BR@Diagrama de conectores;cs_CZ@Plán konektoru;it_IT@Schema connettori;hu_HU@Dugóscsatlakozó-terv;pt_PT@Diagrama de fichas;ko_KR@플러그 다이어그램;ja_JP@プラグ ダイアグラム;tr_TR@Fiş şeması;</Val>
+      </Setting>
+      <Setting name="NomPlugOverview" type="mlstring">
+       <Val>de_DE@Steckerübersicht;en_US@Plug overview;ru_RU@Перечень штекеров;zh_CN@插头总览;es_ES@Resumen de conectores;fr_FR@Aperçu des connecteurs;nl_NL@Stekeroverzicht;sv_SE@Kontaktöversikt;da_DK@Stikoversigt;pl_PL@Przegląd wtyczek;pt_BR@Visão geral de conectores;cs_CZ@Seznam konektorů;it_IT@Sommario connettori;hu_HU@Dugóscsatlakozó-lista;pt_PT@Listagem de fichas;ko_KR@플러그 개요;ja_JP@プラグ概要;tr_TR@Fişlere genel bakış;</Val>
+      </Setting>
+      <Setting name="NomPotentialOverview" type="mlstring">
+       <Val>de_DE@Potenzialübersicht;en_US@Potential overview;es_ES@Resumen de potenciales;fr_FR@Aperçu des potentiels;nl_NL@Potentiaaloverzicht;sv_SE@Potentialöversikt;da_DK@Potentialeoversigt;ru_RU@Перечень потенциалов;zh_CN@电位总览;pl_PL@Przegląd potencjałów;pt_BR@Visão geral de potencial;cs_CZ@Přehled potenciálů;it_IT@Sommario potenziale;hu_HU@Potenciállista;pt_PT@Listagem de potencial;ko_KR@전위 개요;ja_JP@電位概要;tr_TR@Potansiyele genel bakış;</Val>
+      </Setting>
+      <Setting name="NomProperties" type="mlstring">
+       <Val>de_DE@Eigenschaften;en_US@Properties;es_ES@Propiedades;fr_FR@Propriétés;nl_NL@Eigenschappen;sv_SE@Egenskaper;da_DK@Egenskaber;ru_RU@Свойства;zh_CN@属性;pl_PL@Właściwości;pt_BR@Propriedades;cs_CZ@Vlastnosti;it_IT@Proprietà;hu_HU@Tulajdonságok;pt_PT@Propriedades;ko_KR@속성;ja_JP@プロパティ;tr_TR@Özellikler;</Val>
+      </Setting>
+      <Setting name="NomReferences" type="mlstring">
+       <Val>de_DE@Verweise;en_US@References;es_ES@Referencias;fr_FR@Renvois;nl_NL@Verwijzingen;sv_SE@Hänvisningar;da_DK@Referencer;ru_RU@Ссылки;zh_CN@参考;pl_PL@Powiązania;pt_BR@Referências;cs_CZ@Odkazy;it_IT@Riferimenti;hu_HU@Hivatkozások;pt_PT@Referências;ko_KR@참조;ja_JP@参照;tr_TR@Referanslar;</Val>
+      </Setting>
+      <Setting name="NomRevisionOverview" type="mlstring">
+       <Val>de_DE@Revisionsübersicht;en_US@Revision overview;es_ES@Resumen de revisión;fr_FR@Aperçu des révisions;nl_NL@Revisieoverzicht;sv_SE@Revisionsöversikt;da_DK@Revisionsoversigt;ru_RU@Обзор ревизий;zh_CN@修订总览;pl_PL@Przegląd rewizji;pt_BR@Esquema de revisão;cs_CZ@Přehled revizí;it_IT@Sommario revisioni;hu_HU@Revíziólista;pt_PT@Listagem da revisão;ko_KR@개정 개요;ja_JP@リビジョン概要;tr_TR@Revizyona genel bakış;</Val>
+      </Setting>
+      <Setting name="NomSchematicFluid" type="mlstring">
+       <Val>de_DE@Schaltplan Fluid;en_US@Fluid power schematic;es_ES@Esquema fluido;fr_FR@Schéma des connexions fluidique;nl_NL@Schema Fluid;sv_SE@Kretsschema fluid;da_DK@Diagram Fluid;ru_RU@Схема соединений Fluid;zh_CN@流体原理图;pl_PL@Schemat płynów;pt_BR@Esquema Fluid;cs_CZ@Schéma zapojení - fluidní;it_IT@Schema fluidici;hu_HU@Fluid kapcsolási rajz;pt_PT@Esquema Fluid;ko_KR@공유압 회로도;ja_JP@流体動力回路図;tr_TR@Akışkan devre şeması;</Val>
+      </Setting>
+      <Setting name="NomSchematicMultiline" type="mlstring">
+       <Val>de_DE@Schaltplan allpolig;en_US@Schematic multi-line;es_ES@Esquema multipolar;fr_FR@Schéma de connexions multipolaire;nl_NL@Schema meerlijnig;sv_SE@Flerpoligt kretsschema;da_DK@Diagram flerpolet;ru_RU@Многопол. схема соедин.;zh_CN@多线原理图;pl_PL@Schemat wielokreskowy;pt_BR@Esquema multifilar;cs_CZ@Schéma vícepólového zapojení;it_IT@Schema elettrico multipolare;hu_HU@Többpólusú kapcsolási rajz;pt_PT@Esquema multifilar;ko_KR@회로도 멀티 라인;ja_JP@回路図マルチライン;tr_TR@Devre şeması üç hat;</Val>
+      </Setting>
+      <Setting name="NomSchematicSingleline" type="mlstring">
+       <Val>de_DE@Schaltplan einpolig;en_US@Schematic single-line;es_ES@Esquema monopolar;fr_FR@Schéma de connexions unipolaire;nl_NL@Schema enkellijnig;sv_SE@Enpoligt kretsschema;da_DK@Diagram enpolet;ru_RU@Однопол. схема соедин.;zh_CN@单线原理图;pl_PL@Schemat jednokreskowy;pt_BR@Esquema unifilar;cs_CZ@Schéma jednopólového zapojení;it_IT@Schema elettrico unipolare;hu_HU@Egypólusú kapcsolási rajz;pt_PT@Esquema unifilar;ko_KR@회로도 싱글 라인;ja_JP@回路図単線;tr_TR@Devre şeması tek hat;</Val>
+      </Setting>
+      <Setting name="NomSingleline" type="mlstring">
+       <Val>de_DE@Einpolig;en_US@Single-line;es_ES@Monopolar;fr_FR@Unipolaire;nl_NL@Enkellijnig;sv_SE@Enpolig;da_DK@Enpolet;ru_RU@Однополюсный;zh_CN@单线;pl_PL@Jednokreskowy;pt_BR@Unifilar;cs_CZ@Jednopólové;it_IT@Unipolare;hu_HU@Egypólusú;pt_PT@Unifilar;ko_KR@싱글 라인;ja_JP@単線;tr_TR@Tek hat;</Val>
+      </Setting>
+      <Setting name="NomStructureIdentifierOverview" type="mlstring">
+       <Val>de_DE@Strukturkennzeichenübersicht;en_US@Structure identifier overview;es_ES@Resumen de identificación de estructuras;fr_FR@Aperçu des identificateurs de structure;nl_NL@Structuurcodeoverzicht;sv_SE@Strukturbeteckningar-översikt;da_DK@Strukturkendetegnsoversigt;ru_RU@Перечень структурных идентификаторов;zh_CN@结构标识符总览;pl_PL@Przegląd oznaczeń struktury;pt_BR@Visão geral dos identificadores de estrutura;cs_CZ@Přehled identifikátorů struktury;it_IT@Sommario identificativo struttura;hu_HU@Szerkezetazonosító lista;pt_PT@Listagem dos identificadores da estrutura;ko_KR@구조 식별자 개요;ja_JP@構造識別子概要;tr_TR@Yapı işaretlerine genel bakış;</Val>
+      </Setting>
+      <Setting name="NomSummerizedPartsList" type="mlstring">
+       <Val>de_DE@Artikelsummenstückliste;en_US@Summarized parts list;es_ES@Lista de suma de artículos;fr_FR@Liste totale d&apos;articles;nl_NL@Artikellijstoverzicht;sv_SE@Summerad apparatlista;da_DK@Sammentalt artikelstykliste;ru_RU@Групповая спецификация изделий;zh_CN@部件汇总表;pl_PL@Całościowa lista artykułów;pt_BR@Lista das peças totalizadas;cs_CZ@Souhrnný kusovník artiklů;it_IT@Distinta articoli riepilogata;hu_HU@Összesített alkatrészjegyzék;pt_PT@Lista dos totais das peças;ko_KR@요약된 부품 목록;ja_JP@サマリー部品リスト;tr_TR@Özet ürün listesi;</Val>
+      </Setting>
+      <Setting name="NomSymbolOverview" type="mlstring">
+       <Val>de_DE@Symbolübersicht;en_US@Symbol overview;es_ES@Resumen de símbolos;fr_FR@Aperçu des symboles;nl_NL@Symbooloverzicht;sv_SE@Symbolöversikt;da_DK@Symboloversigt;ru_RU@Перечень символов;zh_CN@符号总览;pl_PL@Przegląd symboli;pt_BR@Visão geral de símbolos;cs_CZ@Přehled symbolů;it_IT@Sommario simboli;hu_HU@Szimbólumlista;pt_PT@Listagem de símbolos;ko_KR@심볼 개요;ja_JP@シンボル概要;tr_TR@Sembollere genel bakış;</Val>
+      </Setting>
+      <Setting name="NomTableOfContents" type="mlstring">
+       <Val>de_DE@Inhaltsverzeichnis;en_US@Table of contents;es_ES@Índice de páginas;fr_FR@Table des matières;nl_NL@Inhoudsopgave;sv_SE@Innehållsförteckning;da_DK@Indholdsfortegnelse;ru_RU@Содержание;zh_CN@目录;pl_PL@Spis treści;pt_BR@Índice;cs_CZ@Obsah;it_IT@Sommario delle pagine;hu_HU@Tartalomjegyzék;pt_PT@Tabela de conteúdos;ko_KR@목차;ja_JP@目次;tr_TR@İçindekiler dizini;</Val>
+      </Setting>
+      <Setting name="NomTerminalConnectionDiagram" type="mlstring">
+       <Val>de_DE@Klemmenanschlussplan;en_US@Terminal-connection diagram;es_ES@Plano de conexiones de bornes;fr_FR@Plan de raccordement des bornes;nl_NL@Klemmenaansluitschema;sv_SE@Plintanslutningsschema;da_DK@Klemmetilslutningsplan;ru_RU@Схема подключения клемм;zh_CN@端子连接图;pl_PL@Plan podłączeń zacisków;pt_BR@Diagrama de conexão de bornes;cs_CZ@Plán napojení svorkovnice;it_IT@Schema allacciamento morsetti;hu_HU@Sorkapocs bekötési terv;pt_PT@Diagrama de ligação dos bornes;ko_KR@터미널 접속 다이어그램;ja_JP@端子接続ダイアグラム;tr_TR@Klemens şeridi şeması;</Val>
+      </Setting>
+      <Setting name="NomTerminalDiagram" type="mlstring">
+       <Val>de_DE@Klemmenplan;en_US@Terminal diagram;es_ES@Plano de bornes;fr_FR@Plan des bornes;nl_NL@Klemmenaansluitlijst;sv_SE@Plintförbindningstabell;da_DK@Klemmeplan;ru_RU@Спецификация клеммника;zh_CN@端子图表;pl_PL@Plan zacisków;pt_BR@Diagrama de bornes;cs_CZ@Plán svorkovnice;it_IT@Schema morsetti;hu_HU@Sorkapocsterv;pt_PT@Diagrama de bornes;ko_KR@터미널 다이어그램;ja_JP@端子ダイアグラム;tr_TR@Klemens şeması;</Val>
+      </Setting>
+      <Setting name="NomTerminalLineUpDiagram" type="mlstring">
+       <Val>de_DE@Klemmenaufreihplan;en_US@Terminal line-up diagram;es_ES@Plano de hileras de bornes;fr_FR@Plan des bornes associables;nl_NL@Klemmenopbouwlijst;sv_SE@Plinttabell;da_DK@Klemmerækkelayout;ru_RU@Схема клеммника;zh_CN@端子排列图;pl_PL@Plan ułożenia zacisków;pt_BR@Diagrama de montagem de bornes;cs_CZ@Přehledové schéma svorkovnice;it_IT@Schema sequenza morsetti;hu_HU@Kapocssorrend terv;pt_PT@Diagrama de montagem dos bornes;ko_KR@터미널 부품 다이어그램;ja_JP@端子ラインナップ ダイアグラム;tr_TR@Klemens sıralama şeması;</Val>
+      </Setting>
+      <Setting name="NomTerminalStripOverview" type="mlstring">
+       <Val>de_DE@Klemmenleistenübersicht;en_US@Terminal-strip overview;es_ES@Resumen de regleta de bornes;fr_FR@Aperçu des borniers;nl_NL@Klemmenstrookoverzicht;sv_SE@Plintradsöversikt;da_DK@Klemmerækkeoversigt;ru_RU@Перечень клеммников;zh_CN@端子排总览;pl_PL@Zestawienie listew zaciskowych;pt_BR@Visão geral da régua de bornes;cs_CZ@Seznam svorkovnic;it_IT@Sommario morsettiere;hu_HU@Sorkapocsléclista;pt_PT@Listagem da régua de bornes;ko_KR@터미널 스트립 개요;ja_JP@端子板概要;tr_TR@Klemens şeridi genel bakış;</Val>
+      </Setting>
+      <Setting name="NomTitlePage" type="mlstring">
+       <Val>de_DE@Titel- / Deckblatt;en_US@Title page / cover sheet;es_ES@Hoja de título / portada;fr_FR@Page de titre / garde;nl_NL@Titelblad / voorblad;sv_SE@Titel- / försättsblad;da_DK@Forside;ru_RU@Титульный лист;zh_CN@标题页/封页;pl_PL@Strona tytułowa / Okładka;pt_BR@Folha de título / capa;cs_CZ@Titulní strana;it_IT@Foglio del titolo / Copertina;hu_HU@Címlap / fedlap;pt_PT@Título / Frontispício;ko_KR@제목 페이지/커버 시트;ja_JP@タイトル ページ / カバー シート;tr_TR@Başlık / Kapak sayfası;</Val>
+      </Setting>
+      <Setting name="OutputArticleProperties" type="bool">
+       <Val>1</Val>
+      </Setting>
+      <Setting name="OutputBlackWhite" type="int">
+       <Val/>
+      </Setting>
+      <Setting name="OutputDeviceProperties" type="bool">
+       <Val>1</Val>
+      </Setting>
+      <Setting name="OutputOrderDeviceList" type="string">
+       <Val>17+1+20466+0</Val>
+       <Val>17+1+20031+0</Val>
+       <Val>17+1+20027+0</Val>
+       <Val>17+1+20025+0</Val>
+       <Val>17+1+20040+0</Val>
+       <Val>17+1+20042+0</Val>
+       <Val>17+1+20043+0</Val>
+       <Val>17+1+20041+0</Val>
+      </Setting>
+      <Setting name="OutputOrderGroups" type="string">
+       <Val>OutputDeviceProperties</Val>
+       <Val>OutputArticleProperties</Val>
+       <Val>OutputReferenceProperties</Val>
+      </Setting>
+      <Setting name="OutputOrderPartsList" type="string">
+       <Val>10001+0+20486+0</Val>
+       <Val>117+0+22003+0</Val>
+       <Val>117+0+22004+0</Val>
+       <Val>117+0+22005+0</Val>
+       <Val>117+0+22006+0</Val>
+       <Val>117+0+22009+0</Val>
+       <Val>20076+0+22908+0</Val>
+       <Val>20077+0+22908+0</Val>
+       <Val>117+0+22012+0</Val>
+       <Val>117+0+22013+0</Val>
+       <Val>117+0+22014+0</Val>
+       <Val>117+0+22046+0</Val>
+      </Setting>
+      <Setting name="OutputReferenceProperties" type="bool">
+       <Val>1</Val>
+      </Setting>
+      <Setting name="PDF_A" type="bool">
+       <Val/>
+      </Setting>
+      <Setting name="PageFilter" type="string">
+       <Val>Mounting Locations</Val>
+      </Setting>
+      <Setting name="PageTree" type="bool">
+       <Val/>
+      </Setting>
+      <Setting name="ReadOnly" type="bool">
+       <Val/>
+      </Setting>
+      <Setting name="ResolveModule" type="bool">
+       <Val/>
+      </Setting>
+      <Setting name="ResolveRealModule" type="bool">
+       <Val/>
+      </Setting>
+      <Setting name="SimplifiedJump" type="bool">
+       <Val/>
+      </Setting>
+      <Setting name="SplitSize" type="double">
+       <Val>0</Val>
+      </Setting>
+      <Setting name="Step" type="int">
+       <Val>1</Val>
+      </Setting>
+      <Setting name="SubdirFormat" type="string">
+       <Val/>
+      </Setting>
+      <Setting name="TargetMedium" type="int">
+       <Val>0</Val>
+      </Setting>
+      <Setting name="TargetPath" type="string">
+       <Val>$(DOC)</Val>
+      </Setting>
+      <Setting name="UsePrintMargins" type="bool">
+       <Val>1</Val>
+      </Setting>
+      <Setting name="UseZoom" type="bool">
+       <Val>1</Val>
+      </Setting>
+      <Setting name="WithoutDeviceTag" type="mlstring">
+       <Val>de_DE@Ohne BMK;en_US@Without DT;es_ES@Sin IME;fr_FR@Sans DDC;nl_NL@Zonder ODC;sv_SE@Utan postbeteckning;da_DK@Uden KMB;ru_RU@Без ОУ;zh_CN@无设备标识符;pl_PL@Bez ID;pt_BR@Sem TAG;cs_CZ@Bez ozn.;it_IT@Senza SEF;hu_HU@Tervjel nélkül;pt_PT@Sem DT;ko_KR@DT 없음;ja_JP@DT なし;tr_TR@Bİ olmadan;</Val>
+      </Setting>
+      <Setting name="WithoutProjectStructure" type="mlstring">
+       <Val>de_DE@Ohne Strukturkennzeichen;en_US@Without structure identifier;es_ES@Sin identificación de estructura;fr_FR@Sans identificateur de structure;nl_NL@Zonder structuurcode;sv_SE@Utan strukturbeteckning;da_DK@Uden strukturkendetegn;ru_RU@Без структурных идентификаторов;zh_CN@无结构标识符;pl_PL@Bez oznaczenia struktury;pt_BR@Sem identificador de estrutura;cs_CZ@Bez identifikátoru struktury;it_IT@Senza identificativo struttura;hu_HU@Szerkezetazonosító nélkül;pt_PT@Sem identificador da estrutura;ko_KR@구조 식별자 없음;ja_JP@構造識別子なし;tr_TR@Yapı işareti olmadan;</Val>
+      </Setting>
+      <Setting name="ZoomLevel" type="double" range="1/3500">
+       <Val>50</Val>
+      </Setting>
+     </LEV3>
+     <Setting name="Description" type="mlstring">
+      <Val/>
+     </Setting>
+     <Setting name="Name" type="mlstring">
+      <Val>??_??@Mounting_Locations;</Val>
+     </Setting>
+     <Setting name="ReadOnly" type="bool">
+      <Val>0</Val>
+     </Setting>
+    </LEV2>
+   </LEV1>
+  </MOD>
+ </CAT>
+</Settings>
